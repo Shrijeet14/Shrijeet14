@@ -26,9 +26,7 @@ Welcome to my GitHub profile! I am a **B.Tech student in Electronics and Communi
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrijeet14&theme=radical)  
 ![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Shrijeet14&theme=radical)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Shrijeet14&theme=radical&no-frame=true&row=1&column=6)  
-
-
-## 🛠 Tech Stack  
+ 
 
 ## 🛠 Tech Stack  
 
