@@ -3,7 +3,7 @@
 
 # 👋 Hi there, I'm Shrijeet Kumar!  
 
-### 💻 Tech Enthusiast | 📊 Data Scientist | 🔬 BCI Researcher  
+### 💻 Tech Enthusiast | 📊 Data Science , AI/ML Enthusiast | 🔬 BCI Researcher  
 
 Welcome to my GitHub profile! I am a **B.Tech student in Electronics and Communication Engineering (Hons.) specializing in Data Science** at IIIT SriCity. I enjoy creating impactful projects, exploring new technologies, and delivering solutions to real-world problems.
 
@@ -18,7 +18,23 @@ Welcome to my GitHub profile! I am a **B.Tech student in Electronics and Communi
 - ⚡ **Fun Fact**: I love organizing hackathons, bootcamps, and interactive tech events!  
 
 ---
- 
+ ## 🧠 Key Areas of Interest  
+
+### Machine Learning & AI  
+- Algorithms and model optimization  
+- Interpretability of machine learning models (SHAP, LIME)  
+- Automated Machine Learning (AutoML: PyCaret, TPOT)  
+
+### Data Engineering  
+- ETL pipelines, data cleaning, and preprocessing  
+- Database management (SQL, NoSQL, PostgreSQL)  
+- Deploying models with Flask, Streamlit, and Docker  
+
+### Deep Learning  
+- Neural networks, LSTMs, and GANs  
+- Applications in NLP and Computer Vision
+
+---
 ## 📈 My GitHub Stats  
 
 <p align="center">
@@ -33,7 +49,22 @@ Welcome to my GitHub profile! I am a **B.Tech student in Electronics and Communi
   <img src="https://github-profile-trophy.vercel.app/?username=Shrijeet14&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>  
  
+---
+## 🎨 Custom Widgets  
 
+### Visitor Counter  
+Show off your profile's popularity:  
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Shrijeet14)  
+
+### Profile Views  
+Highlight engagement stats:  
+![Profile Views](https://komarev.com/ghpvc/?username=Shrijeet14&color=blue)  
+
+### Dynamic Quotes  
+Add rotating motivational quotes relevant to Data Science:  
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)  
+
+---
 ## 🛠 Tech Stack  
 
 <p align="center">
