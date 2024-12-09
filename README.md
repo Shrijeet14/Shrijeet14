@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I am a **B.Tech student in Electronics and Communi
 
 ## 📈 My GitHub Stats  
 
-![Shrijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrijeetkumar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrijeetkumar&layout=compact&theme=radical)
+![Shrijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrijeet14&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrijeet14&layout=compact&theme=radical)
 
 ---
 
