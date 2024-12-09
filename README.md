@@ -52,6 +52,9 @@ Welcome to my GitHub profile! I am a **B.Tech student in Electronics and Communi
 
 ### Add rotating motivational quotes relevant to Data Science:
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&layout=socrates)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&font=Redressed)
+
 ---
 ## 🛠 Tech Stack  
 
