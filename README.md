@@ -20,12 +20,19 @@ Welcome to my GitHub profile! I am a **B.Tech student in Electronics and Communi
 ---
 
 ## 📈 My GitHub Stats  
+## 📈 My GitHub Stats  
 
-![Shrijeet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shrijeet14&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrijeet14&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shrijeet14&theme=radical)  
-![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Shrijeet14&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shrijeet14&theme=radical&no-frame=true&row=1&column=6)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shrijeet14&show_icons=true&theme=radical" alt="Shrijeet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrijeet14&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrijeet14&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shrijeet14&theme=radical" alt="Contributions Graph" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shrijeet14&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>  
  
 
 ## 🛠 Tech Stack  
