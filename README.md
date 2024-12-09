@@ -18,8 +18,7 @@ Welcome to my GitHub profile! I am a **B.Tech student in Electronics and Communi
 - ⚡ **Fun Fact**: I love organizing hackathons, bootcamps, and interactive tech events!  
 
 ---
-
-## 📈 My GitHub Stats  
+ 
 ## 📈 My GitHub Stats  
 
 <p align="center">
@@ -28,7 +27,7 @@ Welcome to my GitHub profile! I am a **B.Tech student in Electronics and Communi
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrijeet14&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Shrijeet14&theme=radical" alt="Contributions Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrijeet14&theme=radical" alt="Contributions Graph" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Shrijeet14&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
