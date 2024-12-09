@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a **B.Tech student in Electronics and Communi
 ## 🚀 About Me  
 - 🎓 **Education**: B.Tech in ECE, IIIT SriCity (CGPA: 9.3)  
 - 🔭 **Current Research**: EEG-based Brain-Computer Interfaces for attention state analysis  
-- 🌱 **Learning**: Regex in Python, VLSI placement optimization (DREAMPlace), and Data Engineering  
+- 🌱 **Learning**: Deep Learning and Mlops 
 - 💡 **Interests**: Machine Learning, Deep Learning, NLP, Pattern Recognition, and Security Testing  
 - 🛠 **Tech Stack**: Python, TensorFlow, Streamlit, Django, MERN Stack, FastAPI, Flask, SQL, and Git  
 - ⚡ **Fun Fact**: I love organizing hackathons, bootcamps, and interactive tech events!  
