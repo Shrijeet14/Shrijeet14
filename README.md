@@ -22,8 +22,6 @@ Welcome to my GitHub profile! I am a **B.Tech student in Electronics and Communi
 
 ### Machine Learning & AI  
 - Algorithms and model optimization  
-- Interpretability of machine learning models (SHAP, LIME)  
-- Automated Machine Learning (AutoML: PyCaret, TPOT)  
 
 ### Data Engineering  
 - ETL pipelines, data cleaning, and preprocessing  
@@ -50,20 +48,10 @@ Welcome to my GitHub profile! I am a **B.Tech student in Electronics and Communi
 </p>  
  
 ---
-## 🎨 Custom Widgets  
+## 🎨 Dynamic Quotes  
 
-### Visitor Counter  
-Show off your profile's popularity:  
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Shrijeet14)  
-
-### Profile Views  
-Highlight engagement stats:  
-![Profile Views](https://komarev.com/ghpvc/?username=Shrijeet14&color=blue)  
-
-### Dynamic Quotes  
-Add rotating motivational quotes relevant to Data Science:  
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=radical)  
-
+### Add rotating motivational quotes relevant to Data Science:
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical)
 ---
 ## 🛠 Tech Stack  
 
