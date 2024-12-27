@@ -5,7 +5,7 @@
 
 ### 💻 Tech Enthusiast | 📊 Data Science , AI/ML Enthusiast | 🔬 BCI Researcher  
 
-Welcome to my GitHub profile! I am a **B.Tech student in Electronics and Communication Engineering (Hons.) specializing in Data Science** at IIIT SriCity. I enjoy creating impactful projects, exploring new technologies, and delivering solutions to real-world problems.
+Welcome to my GitHub profile! I am a **B.Tech (Hons.) specializing in Data Science** at IIIT SriCity. I enjoy creating impactful projects, exploring new technologies, and delivering solutions to real-world problems.
 
 ---
 
