@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a **B.Tech student in Electronics and Communi
 ---
 
 ## 🚀 About Me  
-- 🎓 **Education**: B.Tech in ECE, IIIT SriCity (CGPA: 9.3)  
+- 🎓 **Education**: B.Tech (Hons) with Data Science Specialization , IIIT SriCity (CGPA: 9.3)  
 - 🔭 **Current Research**: EEG-based Brain-Computer Interfaces for attention state analysis  
 - 🌱 **Learning**: Deep Learning and Mlops 
 - 💡 **Interests**: Machine Learning, Deep Learning, NLP, Pattern Recognition, and Security Testing  
